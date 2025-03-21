@@ -16,3 +16,19 @@ button.addEventListener("click", () => {
     activeStyle = "style.css";
   }
 });
+
+document.getElementById("img1").addEventListener("click", function() {
+  window.open("https://dmunoztapia.github.io/imc-calculator/", "_blanck");
+});
+document.getElementById("img2").addEventListener("click", function() {
+  window.open("https://dmunoztapia.github.io/Snake-Game/", "_blanck");
+});
+document.getElementById("img3").addEventListener("click", function() {
+  window.open("https://dmunoztapia.github.io/vo2max/", "_blanck");
+});
+document.getElementById("img4").addEventListener("click", function() {
+  window.open("https://dmunoztapia.github.io/Calculadora2/", "_blanck");
+});
+document.getElementById("img5").addEventListener("click", function() {
+  window.open("https://dmunoztapia.github.io/calculador-promedio/", "_blanck");
+});
