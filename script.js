@@ -18,7 +18,7 @@ button.addEventListener("click", () => {
 });
 
 document.getElementById("img1").addEventListener("click", function() {
-  window.open("https://dmunoztapia.github.io/imc-calculator/", "_blanck");
+  window.open("https://dmunoztapia.github.io/IMC-calculator/", "_blanck");
 });
 document.getElementById("img2").addEventListener("click", function() {
   window.open("https://dmunoztapia.github.io/Snake-Game/", "_blanck");
